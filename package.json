@@ -2,7 +2,7 @@
   "name": "index-test",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://buzjen.github.io/test-web-app",
+  "homepage": "https://buzjen.github.io",
   "devDependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
