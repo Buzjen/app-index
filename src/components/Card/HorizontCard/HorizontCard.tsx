@@ -15,7 +15,6 @@ import {
 } from "./styled";
 
 export const HorizontCard: React.FC<Omit<CardProps, "type">> = ({
-  about,
   createdAt,
   id,
   seen,

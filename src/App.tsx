@@ -6,7 +6,7 @@ import { Details } from "./pages/Details";
 export const App = () => {
   return (
     <Routes>
-      <Route path="/" element={<Content />} />
+      <Route path={"/"} element={<Content />} />
       <Route path={`/:id`} element={<Details />} />
     </Routes>
   );

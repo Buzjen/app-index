@@ -11,7 +11,6 @@ import { Adress, CardWrapper, CreatedAt, Price, Title } from "./styled";
 import dayjs from "dayjs";
 
 export const VerticalCard: React.FC<Omit<CardProps, "type">> = ({
-  about,
   createdAt,
   id,
   seen,

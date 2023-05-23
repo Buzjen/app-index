@@ -1,5 +1,4 @@
 import { keyframes, styled } from "@mui/material";
-import React from "react";
 
 const rotateAnimation = keyframes`
  0% { transform: rotate(0deg)}

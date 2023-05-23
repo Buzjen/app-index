@@ -16,7 +16,7 @@ export const Details = () => {
         }
         return;
       } catch (error) {
-        alert(`${error}`);
+        alert(`${id}`);
       }
     }
     fetchData();
