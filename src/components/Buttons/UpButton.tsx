@@ -52,8 +52,8 @@ export const UpButton: React.FC<UpButtonProps> = ({ visibleFrom }) => {
         <path
           d="M14.5 8.25L8 1.75L1.5 8.25"
           stroke="#8F8F8F"
-          stroke-width="2"
-          stroke-linecap="round"
+          strokeWidth="2"
+          strokeLinecap="round"
         />
       </svg>
       <span>Вверх</span>
