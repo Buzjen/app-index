@@ -63,8 +63,8 @@ export const Content = () => {
     <>
       <Header setViewType={setViewType} viewType={viewType} />
       <Box
-        marginLeft="156px"
-        marginRight="156px"
+        marginLeft="10vw"
+        marginRight="10vw"
         display="flex"
         flexWrap="wrap"
         justifyContent="left"

@@ -23,7 +23,7 @@ export const Header: React.FC<HeaderProps> = ({ setViewType, viewType }) => {
         justifyContent="space-between"
         alignItems="center"
         marginTop="35px"
-        marginRight="35px"
+        marginRight="4vw"
       >
         <VerticalMenuButton
           onClick={() => setViewType(ViewType.Vertical)}
