@@ -16,7 +16,7 @@ export const Details = () => {
         }
         return;
       } catch (error) {
-        alert(`${id}`);
+        alert(`${error} , Item id: ${id}`);
       }
     }
     fetchData();
